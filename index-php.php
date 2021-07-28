@@ -17,9 +17,20 @@
 </head>
 <body>
     <div class="container">
-        <div class="row row-cols-4">
-            <?php  ?>
-            <div class="col"></div>
+        <div class="row row-cols-4 g-4">
+            <?php foreach ($dischi as $disc => $value) { ?>
+                
+            <div class="col">
+                <div class="card h-100">
+                    <img src="<?php echo $value['poster'] ?>" class="card-img-top" alt="<?php echo $value['title'] ?>">
+                    <div class="card-body">
+                        <h5 class="card-title"><?php echo $value['title'] ?></h5>
+                        <p class="card-text"><?php echo $value['author'] ?></p>
+                    </div>
+                </div>                
+            </div>
+
+            <?php } ?>
         </div>
     </div>
 </body>

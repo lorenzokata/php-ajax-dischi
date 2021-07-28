@@ -30,7 +30,7 @@
             'title' => 'To Pimp a Butterfly',
             'author' => 'Kendrick Lamar',
             'year' => 2015,
-            'poster' => 'https://static.billboard.com/files/media/To-pimp-a-butterfly-kendrick-lamar-no1-albums-billboard-1000x1000-compressed.jpghttps://static.billboard.com/files/media/To-pimp-a-butterfly-kendrick-lamar-no1-albums-billboard-1000x1000-compressed.jpg'
+            'poster' => 'https://static.billboard.com/files/media/To-pimp-a-butterfly-kendrick-lamar-no1-albums-billboard-1000x1000-compressed.jpg'
         ],
         [
             'title' => "Sgt. Pepper's Lonely Hearts Club Band",
