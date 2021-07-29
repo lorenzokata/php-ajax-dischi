@@ -1,6 +1,6 @@
 <?php 
     
-    $dischi =[
+    $dischi = [
 
         [
             'title' => 'The Dark Side Of The Moon',
@@ -57,6 +57,4 @@
             'poster' => 'https://static.billboard.com/files/media/The-Notorious-B-I-G-Ready-to-Die-album-covers-billboard-1000x1000-compressed.jpg'
         ],
 
-    ]
-    
-?>
+    ];
